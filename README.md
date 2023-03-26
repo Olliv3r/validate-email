@@ -1,12 +1,12 @@
 # validate-email
-Valida e-mails gmail
+Valída e-mails
 
 #### Gere e-mails:
-Gerar 120 e-mails do gmail baseano no usuário e total de e-mails gerado:
+Gerar 120 e-mails baseado no usuário e total de e-mails gerado:
 ```
 bash generatorEmail.sh joaoerinel gmail 120
 ```
-#### Check a lista d e-mails:
+#### Cheque a lista de e-mails:
 Checando todos os e-mails da lista:
 ```
 python2 checkEmail.py joaoerinel.txt
